@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+<modelVersion>4.0.0</modelVersion>
+<groupId>project</groupId>
+<artifactId>security</artifactId>
+<version>0.0.1</version>
+<packaging>pom</packaging>
+
+<modules>
+    <module>client</module>
+    <module>core</module>
+    <module>air</module>
+    <module>quotations</module>
+    <module>sea</module>
+    <module>ground</module>
+    <module>tracking</module>
+    <module>ordering</module>
+    <module>space</module>
+</modules>
+
+<properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
+</project>

@@ -38,3 +38,5 @@
 4) `mvn exec:java -pl client`
 
 ***
+
+<img width="1416" alt="Screenshot 2022-12-07 at 19 15 59" src="https://user-images.githubusercontent.com/120044490/206274968-935c87ae-5057-475b-a802-208d60ad2e15.png">
